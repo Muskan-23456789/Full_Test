@@ -10,7 +10,6 @@ const Footer = () => {
             Your one-stop solution for learning and building projects.  
             Connect with us for more resources and support!
           </p>
-          <p className="mt-4 text-sm">📧 info@fullstacktest.com</p>
           <p className="text-sm">phone no: +91 12345 67890</p>
         </div>
         <div>
